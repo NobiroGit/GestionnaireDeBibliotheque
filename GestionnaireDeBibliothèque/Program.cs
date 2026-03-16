@@ -3,7 +3,6 @@ using System.Text.RegularExpressions;
 using static GestionnaireDeBibliothèque.Livres;
 
 List<Livres> BibliothequeLivre = new List<Livres>();
-
 Bibliotheque.Charger(BibliothequeLivre);
 Livres.SauvegardeListeId();
 

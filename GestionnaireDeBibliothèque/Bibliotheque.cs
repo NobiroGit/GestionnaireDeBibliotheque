@@ -7,7 +7,7 @@ using System.IO;
 
 namespace GestionnaireDeBibliothèque
 {
-    internal static class Bibliotheque
+    internal class Bibliotheque
     {
         /// <summary>
         /// Ajoute un nouveau livre à la bibliothèque en recueillant les informations auprès de l'utilisateur.
