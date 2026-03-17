@@ -253,7 +253,7 @@ namespace GestionnaireDeBibliothèque
         {
             try
             {
-                string chemin = Path.GetFullPath("DB_Bibliotheque.txt");
+                string chemin = Path.GetFullPath(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, @"..\..\..\fichierTexte\DB_Bibliotheque.txt"));
                 using StreamWriter writer = new StreamWriter(chemin);
                 foreach (Livres livre in BibliothequeL)
                 {
@@ -276,7 +276,7 @@ namespace GestionnaireDeBibliothèque
         /// <param name="BibliothequeL">La collection de livres à remplir avec les données chargées. La liste est effacée avant d'être mise à jour.</param>
         public static void Charger(List<Livres> BibliothequeL)
         {
-            string chemin = Path.GetFullPath("DB_Bibliotheque.txt");
+            string chemin = Path.GetFullPath(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, @"..\..\..\fichierTexte\DB_Bibliotheque.txt"));
             Console.WriteLine(chemin);
             try
             {

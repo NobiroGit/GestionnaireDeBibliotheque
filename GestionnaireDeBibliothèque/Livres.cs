@@ -95,7 +95,7 @@ namespace GestionnaireDeBibliothèque
         {
             try
             {
-                string chemin = Path.GetFullPath("idListeUnique.txt");
+                string chemin = Path.GetFullPath(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, @"..\..\..\fichierTexte\idListeUnique.txt"));
                 using StreamWriter writer = new StreamWriter(chemin);
                 foreach (int id in idList)
                 {

@@ -1,0 +1,31 @@
+1034|La Ferme des animaux|George Orwell|1945|Fiction|True
+1035|Hommage à la Catalogne|George Orwell|1938|Fiction|True
+2048|Le Hobbit|J.R.R. Tolkien|1937|Fantasy|True
+2049|Le Silmarillion|J.R.R. Tolkien|1977|Fantasy|True
+5083|Emma|Jane Austen|1815|Romance|True
+5084|Raison et Sentiments|Jane Austen|1811|Romance|True
+4046|Dix Petits Nègres|Agatha Christie|1939|Policier|True
+4047|Mort sur le Nil|Agatha Christie|1937|Policier|True
+1027|Vol de nuit|Antoine de Saint-Exupéry|1931|Fiction|True
+1028|Terre des hommes|Antoine de Saint-Exupéry|1939|Fiction|True
+3084|Le Messie de Dune|Frank Herbert|1969|Sciencefiction|True
+3085|Les Enfants de Dune|Frank Herbert|1976|Sciencefiction|True
+2056|Harry Potter et la Chambre des secrets|J.K. Rowling|1998|Fantasy|True
+2057|Harry Potter et le Prisonnier d'Azkaban|J.K. Rowling|1999|Fantasy|True
+5085|Hamlet|William Shakespeare|1603|Romance|True
+5086|Othello|William Shakespeare|1604|Romance|True
+4038|Le Signe des quatre|Arthur Conan Doyle|1890|Policier|True
+4039|Le Chien des Baskerville|Arthur Conan Doyle|1902|Policier|True
+1029|Notre-Dame de Paris|Victor Hugo|1831|Fiction|True
+1030|L'Homme qui rit|Victor Hugo|1869|Fiction|True
+503734|Clara contre-attaque|Jordan Mal|2027|Romance|True
+503735|Clara et le parking maudit|Jordan Mal|2028|Romance|True
+408166|Théo contre la pelle mécanique|Lola l'arsouille|2024|Policier|True
+408167|Théo mène l'enquête|Lola l'arsouille|2025|Policier|True
+3090|La Ruche d'Hellstrom|Frank Herbert|1973|Sciencefiction|True
+2058|Harry Potter et la Coupe de feu|J.K. Rowling|2000|Fantasy|True
+4048|Le Miroir se brisa|Agatha Christie|1962|Policier|True
+5087|Persuasion|Jane Austen|1817|Romance|True
+2059|Harry Potter et l'Ordre du Phénix|J.K. Rowling|2003|Fantasy|True
+3086|Dieu Empereur de Dune|Frank Herbert|1981|Sciencefiction|True
+402178|Theo et l'arsouille magique|Lola Labeauf|2000|Policier|True
